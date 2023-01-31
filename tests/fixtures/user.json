@@ -1,0 +1,12 @@
+{
+    "message": "User found",
+    "data": {
+        "id": 1,
+        "first_name": "Jhon",
+        "last_name": "Doe",
+        "email": "jhon@example.com"
+        
+    },
+    "errors": "",
+    "meta": []
+}
