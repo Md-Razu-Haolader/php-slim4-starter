@@ -37,6 +37,7 @@ composer dump-autoload
 
 Sample endpoint: http://php-slim4-starter.test/api/v1/users
 Method: POST
+
 Payload:
 
 ```json
