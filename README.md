@@ -35,7 +35,8 @@ composer dump-autoload
 
 10. Unit tests are written at tests folder.
 
-Sample endpoint: http://php-slim4-starter.test/api/v1/user/save
+Sample endpoint: http://php-slim4-starter.test/api/v1/users
+Method: POST
 Payload:
 
 ```json
